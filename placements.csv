@@ -1,0 +1,431 @@
+placement_id,student_id,company_name,job_role,package_lpa,placement_date,status
+1,STU0004,Amazon,Business Analyst,5.96,2025-11-08,Placed
+2,STU0006,Capgemini,Data Analyst,9.88,2025-07-29,Placed
+3,STU0010,IBM,Data Scientist,10.85,2025-10-31,Placed
+4,STU0012,Microsoft,Cloud Engineer,9.44,2025-08-26,Placed
+5,STU0014,Amazon,System Engineer,6.21,2025-11-07,Placed
+6,STU0017,TCS,System Engineer,13.67,2025-07-18,Placed
+7,STU0019,Wipro,Data Analyst,5.59,2025-09-01,Placed
+8,STU0023,Capgemini,Software Developer,7.39,2025-09-18,Placed
+9,STU0027,Microsoft,Web Developer,6.32,2025-10-06,Placed
+10,STU0028,Infosys,Web Developer,12.75,2025-08-25,Offer Received
+11,STU0029,Cognizant,System Engineer,8.31,2025-12-24,Placed
+12,STU0030,HCL Technologies,Cyber Security Analyst,6.15,2025-09-27,Placed
+13,STU0031,HCL Technologies,Business Analyst,13.63,2025-10-15,Placed
+14,STU0032,Cognizant,Cloud Engineer,15.24,2025-10-09,Placed
+15,STU0034,HCL Technologies,Business Analyst,5.30,2025-09-01,Offer Received
+16,STU0035,HCL Technologies,Data Scientist,8.99,2025-11-29,Placed
+17,STU0036,Microsoft,Cloud Engineer,6.39,2025-09-14,Placed
+18,STU0037,Tech Mahindra,Cloud Engineer,15.09,2025-10-03,Placed
+19,STU0042,Infosys,Cyber Security Analyst,5.61,2025-12-25,Placed
+20,STU0044,TCS,Cloud Engineer,14.42,2025-10-30,Placed
+21,STU0045,Amazon,Cyber Security Analyst,10.09,2025-07-31,Placed
+22,STU0047,IBM,Web Developer,5.25,2025-10-07,Placed
+23,STU0050,Cognizant,Business Analyst,4.90,2025-07-30,Placed
+24,STU0051,Wipro,Web Developer,4.27,2025-12-17,Placed
+25,STU0053,Tech Mahindra,Web Developer,7.33,2025-10-25,Placed
+26,STU0055,Cognizant,Web Developer,13.10,2025-12-06,Placed
+27,STU0056,Infosys,Software Developer,6.44,2025-11-01,Placed
+28,STU0057,IBM,Data Analyst,7.93,2025-11-07,Not Selected
+29,STU0058,Deloitte,System Engineer,9.51,2025-07-08,Offer Received
+30,STU0059,Capgemini,Web Developer,7.87,2025-08-22,Placed
+31,STU0061,Capgemini,Cloud Engineer,7.21,2025-08-23,Offer Received
+32,STU0063,Infosys,Business Analyst,5.87,2025-11-16,Placed
+33,STU0076,IBM,System Engineer,8.13,2025-08-23,Placed
+34,STU0078,IBM,Cyber Security Analyst,11.05,2025-10-03,Offer Received
+35,STU0079,Infosys,Data Analyst,8.77,2025-10-27,Placed
+36,STU0080,Wipro,Software Developer,8.05,2025-09-26,Placed
+37,STU0083,Deloitte,Cyber Security Analyst,15.27,2025-08-27,Offer Received
+38,STU0084,Infosys,Cyber Security Analyst,14.21,2025-09-02,Placed
+39,STU0086,TCS,Data Scientist,5.44,2025-12-25,Placed
+40,STU0087,Accenture,Business Analyst,14.04,2025-11-18,Placed
+41,STU0090,Amazon,Business Analyst,10.81,2025-10-29,Offer Received
+42,STU0092,Infosys,Business Analyst,14.29,2025-11-02,Placed
+43,STU0094,Cognizant,Data Scientist,13.19,2025-12-25,Placed
+44,STU0098,Tech Mahindra,System Engineer,15.40,2025-11-29,Placed
+45,STU0099,Cognizant,Data Scientist,8.79,2025-11-07,Placed
+46,STU0100,Microsoft,Software Developer,13.77,2025-07-13,Placed
+47,STU0102,IBM,Software Developer,10.44,2025-07-12,Placed
+48,STU0103,Capgemini,System Engineer,4.28,2025-07-26,Placed
+49,STU0104,Infosys,Data Scientist,14.67,2025-12-04,Placed
+50,STU0105,Capgemini,Cyber Security Analyst,13.55,2025-08-04,Offer Received
+51,STU0110,Wipro,Software Developer,3.51,2025-11-21,Offer Received
+52,STU0111,HCL Technologies,Software Developer,14.41,2025-12-12,Not Selected
+53,STU0117,Cognizant,Cyber Security Analyst,9.65,2025-09-22,Placed
+54,STU0120,Wipro,Cyber Security Analyst,13.55,2025-11-11,Offer Received
+55,STU0121,Accenture,Cloud Engineer,5.60,2025-12-20,Placed
+56,STU0122,IBM,System Engineer,10.01,2025-09-06,Offer Received
+57,STU0128,IBM,Data Analyst,8.92,2025-07-22,Offer Received
+58,STU0130,Tech Mahindra,Data Scientist,13.55,2025-10-26,Placed
+59,STU0133,Capgemini,Software Developer,5.16,2025-09-16,Placed
+60,STU0138,Deloitte,Data Analyst,7.27,2025-11-07,Offer Received
+61,STU0139,TCS,Data Scientist,7.33,2025-10-26,Placed
+62,STU0142,Microsoft,Data Analyst,9.69,2025-07-21,Offer Received
+63,STU0146,Capgemini,Cyber Security Analyst,14.12,2025-08-28,Placed
+64,STU0148,Amazon,Web Developer,8.18,2025-07-22,Placed
+65,STU0149,Tech Mahindra,Data Analyst,6.11,2025-09-03,Placed
+66,STU0150,Cognizant,Software Developer,5.33,2025-12-04,Placed
+67,STU0156,Infosys,System Engineer,13.73,2025-10-11,Placed
+68,STU0160,Amazon,Cyber Security Analyst,9.58,2025-11-16,Placed
+69,STU0162,Capgemini,Software Developer,5.98,2025-09-19,Placed
+70,STU0163,TCS,Software Developer,7.89,2025-10-15,Placed
+71,STU0165,Tech Mahindra,Business Analyst,5.20,2025-11-04,Offer Received
+72,STU0168,HCL Technologies,Data Analyst,13.94,2025-12-04,Placed
+73,STU0169,Microsoft,System Engineer,4.75,2025-08-28,Placed
+74,STU0176,TCS,Software Developer,14.96,2025-07-09,Placed
+75,STU0177,IBM,Data Analyst,5.26,2025-12-21,Placed
+76,STU0178,Infosys,System Engineer,8.87,2025-10-29,Placed
+77,STU0179,Accenture,Software Developer,6.74,2025-07-16,Placed
+78,STU0180,IBM,Data Analyst,5.14,2025-08-11,Offer Received
+79,STU0186,Tech Mahindra,Data Scientist,6.52,2025-08-01,Placed
+80,STU0188,Capgemini,Cloud Engineer,15.49,2025-09-29,Placed
+81,STU0190,Capgemini,Software Developer,8.08,2025-12-18,Offer Received
+82,STU0192,Amazon,System Engineer,3.58,2025-10-09,Offer Received
+83,STU0194,Capgemini,Cyber Security Analyst,6.05,2025-11-26,Placed
+84,STU0196,Infosys,Business Analyst,13.77,2025-11-29,Placed
+85,STU0197,Capgemini,Web Developer,7.99,2025-09-09,Placed
+86,STU0202,Cognizant,Business Analyst,5.12,2025-10-27,Placed
+87,STU0203,TCS,Web Developer,7.74,2025-09-01,Placed
+88,STU0206,Wipro,Cyber Security Analyst,11.31,2025-07-16,Placed
+89,STU0208,IBM,Cloud Engineer,11.91,2025-07-10,Placed
+90,STU0210,Capgemini,Data Analyst,8.32,2025-08-28,Placed
+91,STU0211,TCS,Cyber Security Analyst,8.86,2025-08-27,Placed
+92,STU0215,Wipro,Business Analyst,3.86,2025-07-29,Placed
+93,STU0218,TCS,Business Analyst,12.64,2025-12-02,Placed
+94,STU0219,Amazon,Business Analyst,10.64,2025-10-27,Placed
+95,STU0224,Capgemini,Web Developer,10.65,2025-12-11,Placed
+96,STU0225,Amazon,Data Analyst,10.03,2025-07-07,Offer Received
+97,STU0228,IBM,Cloud Engineer,5.21,2025-07-27,Placed
+98,STU0232,Deloitte,Cloud Engineer,4.04,2025-10-26,Placed
+99,STU0233,Cognizant,Web Developer,6.05,2025-08-09,Placed
+100,STU0235,TCS,Data Scientist,9.68,2025-09-15,Placed
+101,STU0236,Deloitte,Business Analyst,12.65,2025-08-23,Placed
+102,STU0238,Infosys,Data Scientist,7.34,2025-08-08,Placed
+103,STU0239,Microsoft,Data Analyst,10.41,2025-09-13,Placed
+104,STU0240,Microsoft,Cyber Security Analyst,8.49,2025-12-11,Placed
+105,STU0241,Wipro,Cyber Security Analyst,9.18,2025-10-18,Placed
+106,STU0242,Infosys,Software Developer,9.53,2025-10-15,Placed
+107,STU0244,Microsoft,Data Analyst,4.48,2025-10-17,Placed
+108,STU0250,Tech Mahindra,Software Developer,10.08,2025-09-16,Placed
+109,STU0253,Microsoft,System Engineer,14.36,2025-09-01,Placed
+110,STU0256,HCL Technologies,Cyber Security Analyst,12.98,2025-10-25,Offer Received
+111,STU0258,Deloitte,Data Analyst,14.36,2025-11-04,Placed
+112,STU0261,TCS,Business Analyst,13.37,2025-10-27,Placed
+113,STU0264,IBM,Business Analyst,9.00,2025-12-26,Placed
+114,STU0269,TCS,Web Developer,4.60,2025-12-02,Placed
+115,STU0274,Infosys,System Engineer,9.09,2025-08-24,Placed
+116,STU0275,Infosys,Business Analyst,9.80,2025-12-05,Placed
+117,STU0279,Accenture,Web Developer,8.70,2025-11-05,Placed
+118,STU0282,Infosys,Web Developer,4.80,2025-11-19,Placed
+119,STU0284,Wipro,Business Analyst,9.64,2025-09-30,Placed
+120,STU0287,Amazon,Cloud Engineer,7.29,2025-12-02,Placed
+121,STU0288,Accenture,System Engineer,14.53,2025-07-13,Placed
+122,STU0290,Infosys,Cloud Engineer,6.41,2025-10-18,Placed
+123,STU0295,Wipro,Data Scientist,15.17,2025-10-14,Placed
+124,STU0297,Amazon,Cyber Security Analyst,12.68,2025-09-25,Placed
+125,STU0298,Wipro,Cyber Security Analyst,4.47,2025-12-19,Placed
+126,STU0299,Capgemini,Cloud Engineer,4.36,2025-08-24,Placed
+127,STU0302,Deloitte,Cyber Security Analyst,10.64,2025-07-17,Placed
+128,STU0310,Deloitte,Data Scientist,8.01,2025-07-28,Offer Received
+129,STU0314,HCL Technologies,Business Analyst,3.94,2025-11-21,Placed
+130,STU0317,Tech Mahindra,Web Developer,3.85,2025-12-27,Placed
+131,STU0323,Tech Mahindra,Cloud Engineer,9.12,2025-07-04,Placed
+132,STU0324,Amazon,Data Scientist,15.39,2025-10-28,Offer Received
+133,STU0326,Wipro,Cyber Security Analyst,4.65,2025-09-16,Placed
+134,STU0327,Deloitte,Data Analyst,8.71,2025-09-06,Placed
+135,STU0329,Wipro,Software Developer,12.36,2025-08-17,Placed
+136,STU0332,HCL Technologies,System Engineer,12.93,2025-10-11,Offer Received
+137,STU0334,IBM,Cloud Engineer,6.78,2025-08-19,Placed
+138,STU0336,Capgemini,Web Developer,11.49,2025-07-24,Offer Received
+139,STU0337,Capgemini,System Engineer,15.08,2025-12-21,Placed
+140,STU0339,HCL Technologies,Web Developer,6.65,2025-10-02,Placed
+141,STU0340,TCS,Data Analyst,4.61,2025-09-10,Placed
+142,STU0341,Tech Mahindra,Data Analyst,9.30,2025-12-23,Placed
+143,STU0342,TCS,Cloud Engineer,3.63,2025-08-25,Placed
+144,STU0353,Amazon,Business Analyst,10.02,2025-09-04,Placed
+145,STU0359,Cognizant,System Engineer,9.69,2025-11-10,Placed
+146,STU0363,HCL Technologies,Web Developer,14.22,2025-11-13,Placed
+147,STU0364,Amazon,Software Developer,11.26,2025-07-03,Offer Received
+148,STU0365,Deloitte,Software Developer,13.83,2025-10-27,Placed
+149,STU0367,Cognizant,Web Developer,15.40,2025-09-01,Placed
+150,STU0368,Tech Mahindra,Web Developer,11.86,2025-08-05,Offer Received
+151,STU0369,HCL Technologies,System Engineer,9.12,2025-08-22,Offer Received
+152,STU0371,TCS,Cloud Engineer,9.23,2025-08-07,Placed
+153,STU0374,Cognizant,Data Analyst,3.95,2025-09-17,Offer Received
+154,STU0375,HCL Technologies,Business Analyst,13.12,2025-08-27,Placed
+155,STU0376,Accenture,Cyber Security Analyst,10.73,2025-09-29,Placed
+156,STU0377,IBM,Software Developer,13.92,2025-10-18,Placed
+157,STU0380,Wipro,Business Analyst,11.33,2025-07-30,Placed
+158,STU0382,Cognizant,System Engineer,8.13,2025-12-26,Placed
+159,STU0383,Tech Mahindra,System Engineer,5.45,2025-08-20,Placed
+160,STU0384,Accenture,System Engineer,4.59,2025-10-17,Placed
+161,STU0393,Capgemini,Business Analyst,11.63,2025-11-05,Placed
+162,STU0394,Accenture,Data Analyst,11.16,2025-08-12,Not Selected
+163,STU0395,Capgemini,Cloud Engineer,4.43,2025-10-21,Placed
+164,STU0396,Amazon,Data Analyst,12.72,2025-11-02,Placed
+165,STU0399,Capgemini,Business Analyst,13.96,2025-09-10,Placed
+166,STU0400,TCS,System Engineer,14.13,2025-09-30,Placed
+167,STU0401,Capgemini,Business Analyst,5.26,2025-08-23,Placed
+168,STU0405,Infosys,Data Scientist,10.38,2025-08-14,Offer Received
+169,STU0409,Accenture,System Engineer,11.15,2025-08-06,Placed
+170,STU0410,Amazon,Business Analyst,9.66,2025-12-21,Placed
+171,STU0413,TCS,Web Developer,14.80,2025-11-25,Placed
+172,STU0418,Deloitte,System Engineer,11.03,2025-09-25,Placed
+173,STU0420,Microsoft,Web Developer,7.28,2025-09-13,Placed
+174,STU0422,IBM,Web Developer,8.83,2025-10-22,Placed
+175,STU0423,Infosys,Software Developer,8.11,2025-07-03,Placed
+176,STU0425,Cognizant,Data Scientist,8.99,2025-07-28,Placed
+177,STU0428,Tech Mahindra,Cloud Engineer,9.57,2025-07-12,Offer Received
+178,STU0429,Wipro,System Engineer,6.59,2025-10-05,Placed
+179,STU0433,Capgemini,Cyber Security Analyst,10.98,2025-08-06,Placed
+180,STU0435,HCL Technologies,Business Analyst,12.20,2025-07-12,Placed
+181,STU0436,Capgemini,Software Developer,14.49,2025-11-15,Placed
+182,STU0442,Amazon,System Engineer,13.77,2025-11-22,Placed
+183,STU0443,Microsoft,Data Analyst,7.44,2025-08-22,Placed
+184,STU0448,Amazon,Data Analyst,7.49,2025-08-06,Placed
+185,STU0449,IBM,Data Analyst,6.33,2025-11-30,Placed
+186,STU0452,Amazon,Data Analyst,10.25,2025-07-29,Placed
+187,STU0454,Tech Mahindra,Data Analyst,13.31,2025-11-08,Placed
+188,STU0455,Cognizant,Business Analyst,11.30,2025-07-22,Placed
+189,STU0464,HCL Technologies,Data Analyst,9.14,2025-08-14,Placed
+190,STU0465,Amazon,Data Scientist,5.94,2025-12-01,Placed
+191,STU0467,Infosys,Business Analyst,6.43,2025-12-09,Placed
+192,STU0468,Wipro,Web Developer,14.87,2025-11-21,Placed
+193,STU0475,Wipro,Cloud Engineer,4.04,2025-09-14,Placed
+194,STU0476,HCL Technologies,Data Scientist,14.34,2025-11-12,Placed
+195,STU0478,Accenture,Data Scientist,11.98,2025-11-03,Placed
+196,STU0479,Amazon,Data Scientist,3.75,2025-07-15,Placed
+197,STU0482,Wipro,Software Developer,4.92,2025-07-01,Placed
+198,STU0484,Deloitte,Business Analyst,6.59,2025-07-11,Placed
+199,STU0486,Deloitte,System Engineer,13.75,2025-07-13,Placed
+200,STU0491,Capgemini,Software Developer,5.39,2025-08-26,Placed
+201,STU0493,Capgemini,Business Analyst,12.25,2025-08-11,Offer Received
+202,STU0494,Accenture,Software Developer,6.24,2025-09-19,Not Selected
+203,STU0497,Tech Mahindra,Cyber Security Analyst,13.22,2025-10-29,Placed
+204,STU0499,Cognizant,Cyber Security Analyst,6.19,2025-07-26,Offer Received
+205,STU0502,Wipro,Business Analyst,14.46,2025-11-26,Placed
+206,STU0503,Tech Mahindra,Data Analyst,12.10,2025-07-30,Placed
+207,STU0506,Deloitte,System Engineer,5.22,2025-09-07,Offer Received
+208,STU0507,Infosys,Cloud Engineer,8.45,2025-09-30,Offer Received
+209,STU0508,Amazon,Data Scientist,7.54,2025-07-02,Placed
+210,STU0514,Microsoft,Cloud Engineer,8.27,2025-12-10,Placed
+211,STU0515,Tech Mahindra,Business Analyst,4.80,2025-08-24,Not Selected
+212,STU0516,HCL Technologies,Cyber Security Analyst,14.12,2025-11-28,Offer Received
+213,STU0518,Amazon,Software Developer,4.57,2025-09-30,Placed
+214,STU0519,TCS,Web Developer,4.88,2025-12-24,Offer Received
+215,STU0522,Cognizant,Software Developer,10.18,2025-11-15,Offer Received
+216,STU0525,Wipro,Data Analyst,4.08,2025-08-09,Placed
+217,STU0528,Accenture,Cyber Security Analyst,4.24,2025-07-16,Placed
+218,STU0533,IBM,Cyber Security Analyst,13.09,2025-11-26,Placed
+219,STU0537,Capgemini,System Engineer,11.89,2025-08-04,Placed
+220,STU0538,Wipro,System Engineer,10.46,2025-09-18,Offer Received
+221,STU0539,Infosys,Web Developer,9.11,2025-12-06,Placed
+222,STU0541,Wipro,Data Scientist,14.65,2025-11-10,Offer Received
+223,STU0544,Cognizant,Cyber Security Analyst,10.80,2025-10-21,Placed
+224,STU0548,Microsoft,Software Developer,12.35,2025-08-26,Placed
+225,STU0549,Cognizant,System Engineer,13.05,2025-11-17,Placed
+226,STU0550,Deloitte,Cyber Security Analyst,7.35,2025-12-25,Placed
+227,STU0551,Cognizant,Business Analyst,4.53,2025-12-19,Placed
+228,STU0555,HCL Technologies,Business Analyst,7.16,2025-12-11,Placed
+229,STU0556,Tech Mahindra,Cyber Security Analyst,6.38,2025-08-28,Placed
+230,STU0557,Cognizant,Data Scientist,15.05,2025-10-18,Offer Received
+231,STU0559,Capgemini,Business Analyst,6.18,2025-08-07,Offer Received
+232,STU0560,Infosys,Data Scientist,4.91,2025-11-03,Placed
+233,STU0561,Tech Mahindra,Software Developer,14.99,2025-10-31,Placed
+234,STU0562,Wipro,Cloud Engineer,6.22,2025-10-24,Placed
+235,STU0564,Deloitte,System Engineer,8.17,2025-07-19,Placed
+236,STU0565,Capgemini,Cyber Security Analyst,3.74,2025-07-16,Placed
+237,STU0570,HCL Technologies,Cyber Security Analyst,11.50,2025-12-23,Offer Received
+238,STU0571,Capgemini,System Engineer,10.41,2025-12-07,Placed
+239,STU0573,HCL Technologies,Data Analyst,8.32,2025-10-24,Placed
+240,STU0574,Capgemini,Data Scientist,9.11,2025-07-04,Placed
+241,STU0575,Tech Mahindra,Data Analyst,6.50,2025-11-05,Placed
+242,STU0576,Tech Mahindra,Software Developer,9.28,2025-10-15,Placed
+243,STU0582,Infosys,Cyber Security Analyst,11.97,2025-08-28,Placed
+244,STU0583,Wipro,Web Developer,7.23,2025-07-13,Placed
+245,STU0586,Capgemini,Cloud Engineer,13.02,2025-07-21,Placed
+246,STU0587,Accenture,System Engineer,4.22,2025-10-17,Placed
+247,STU0589,Cognizant,System Engineer,4.61,2025-09-01,Placed
+248,STU0590,HCL Technologies,Web Developer,9.47,2025-07-14,Placed
+249,STU0591,Wipro,Software Developer,6.38,2025-12-25,Placed
+250,STU0592,IBM,Data Analyst,3.79,2025-08-27,Placed
+251,STU0593,Microsoft,System Engineer,6.92,2025-09-26,Placed
+252,STU0594,IBM,Web Developer,5.84,2025-12-08,Placed
+253,STU0596,HCL Technologies,Data Scientist,14.02,2025-10-02,Placed
+254,STU0597,Amazon,Web Developer,8.69,2025-12-12,Placed
+255,STU0598,Cognizant,Business Analyst,12.04,2025-09-06,Placed
+256,STU0599,HCL Technologies,Cloud Engineer,8.87,2025-07-20,Placed
+257,STU0604,Cognizant,Data Scientist,6.46,2025-07-15,Placed
+258,STU0606,Amazon,Software Developer,9.92,2025-11-07,Placed
+259,STU0608,Capgemini,Web Developer,11.63,2025-07-20,Placed
+260,STU0610,Cognizant,System Engineer,15.02,2025-12-08,Placed
+261,STU0614,IBM,System Engineer,3.56,2025-10-22,Placed
+262,STU0616,Deloitte,System Engineer,6.94,2025-09-03,Placed
+263,STU0617,Infosys,Data Scientist,5.89,2025-07-21,Placed
+264,STU0618,HCL Technologies,Cyber Security Analyst,14.70,2025-07-05,Placed
+265,STU0619,Accenture,Data Scientist,13.55,2025-07-21,Placed
+266,STU0624,Infosys,Cyber Security Analyst,4.16,2025-10-21,Placed
+267,STU0629,Tech Mahindra,Data Scientist,5.83,2025-12-15,Offer Received
+268,STU0631,Deloitte,Cyber Security Analyst,15.25,2025-09-09,Offer Received
+269,STU0632,TCS,Cyber Security Analyst,12.00,2025-08-19,Placed
+270,STU0634,TCS,Business Analyst,5.21,2025-08-11,Placed
+271,STU0636,Tech Mahindra,System Engineer,14.45,2025-10-14,Placed
+272,STU0638,Tech Mahindra,System Engineer,7.13,2025-07-29,Offer Received
+273,STU0641,Wipro,System Engineer,5.50,2025-12-23,Placed
+274,STU0643,HCL Technologies,Data Scientist,9.58,2025-07-30,Placed
+275,STU0654,Infosys,Software Developer,5.08,2025-12-18,Placed
+276,STU0656,Microsoft,Data Analyst,3.88,2025-08-02,Offer Received
+277,STU0659,Cognizant,Cloud Engineer,7.04,2025-11-09,Placed
+278,STU0660,Amazon,Web Developer,15.16,2025-10-22,Placed
+279,STU0661,HCL Technologies,Business Analyst,7.49,2025-08-12,Offer Received
+280,STU0665,Capgemini,Web Developer,14.21,2025-12-06,Placed
+281,STU0666,Infosys,Web Developer,5.06,2025-11-09,Placed
+282,STU0667,Deloitte,Data Scientist,4.14,2025-10-27,Placed
+283,STU0670,Accenture,System Engineer,4.80,2025-12-10,Placed
+284,STU0672,Deloitte,Data Scientist,7.33,2025-08-07,Placed
+285,STU0673,Cognizant,Data Analyst,5.29,2025-12-06,Placed
+286,STU0675,TCS,System Engineer,7.80,2025-11-30,Offer Received
+287,STU0676,Accenture,Business Analyst,13.19,2025-11-04,Placed
+288,STU0683,Accenture,Cyber Security Analyst,6.86,2025-10-19,Placed
+289,STU0684,Tech Mahindra,Business Analyst,11.12,2025-08-13,Placed
+290,STU0690,Tech Mahindra,Business Analyst,10.08,2025-10-03,Placed
+291,STU0691,Accenture,Cloud Engineer,8.05,2025-08-09,Placed
+292,STU0694,TCS,System Engineer,12.94,2025-09-16,Placed
+293,STU0697,Wipro,Business Analyst,10.59,2025-11-14,Offer Received
+294,STU0701,Amazon,Data Scientist,5.03,2025-12-12,Placed
+295,STU0703,Deloitte,System Engineer,15.40,2025-11-03,Offer Received
+296,STU0705,Tech Mahindra,Business Analyst,11.79,2025-12-21,Placed
+297,STU0711,Infosys,Data Analyst,11.14,2025-07-21,Placed
+298,STU0714,Amazon,Software Developer,10.68,2025-09-26,Placed
+299,STU0716,Infosys,Software Developer,7.56,2025-08-04,Offer Received
+300,STU0717,Capgemini,System Engineer,15.21,2025-11-20,Placed
+301,STU0718,Deloitte,Software Developer,7.78,2025-07-13,Placed
+302,STU0722,HCL Technologies,Web Developer,9.82,2025-12-22,Placed
+303,STU0723,Microsoft,System Engineer,12.31,2025-09-26,Placed
+304,STU0724,IBM,Business Analyst,8.51,2025-11-28,Placed
+305,STU0726,Cognizant,Business Analyst,12.16,2025-07-17,Placed
+306,STU0727,IBM,Business Analyst,4.84,2025-07-01,Placed
+307,STU0728,Tech Mahindra,Cloud Engineer,8.42,2025-12-02,Placed
+308,STU0733,HCL Technologies,Web Developer,3.52,2025-07-10,Placed
+309,STU0734,Accenture,Web Developer,6.96,2025-08-20,Placed
+310,STU0737,IBM,System Engineer,12.61,2025-07-03,Placed
+311,STU0740,TCS,Data Analyst,5.96,2025-10-14,Placed
+312,STU0744,TCS,Data Analyst,6.68,2025-07-20,Placed
+313,STU0745,Deloitte,Cloud Engineer,7.89,2025-11-19,Placed
+314,STU0746,Accenture,Cloud Engineer,3.95,2025-08-31,Placed
+315,STU0747,Wipro,Web Developer,8.00,2025-07-25,Placed
+316,STU0751,Infosys,Business Analyst,7.10,2025-08-29,Placed
+317,STU0752,Deloitte,Cyber Security Analyst,15.28,2025-10-12,Placed
+318,STU0755,Cognizant,Web Developer,11.63,2025-08-31,Placed
+319,STU0758,Microsoft,Software Developer,8.24,2025-12-18,Placed
+320,STU0759,IBM,Web Developer,15.43,2025-11-01,Placed
+321,STU0762,Microsoft,Business Analyst,10.40,2025-11-30,Offer Received
+322,STU0764,Accenture,Business Analyst,8.91,2025-12-01,Offer Received
+323,STU0765,Amazon,Software Developer,13.16,2025-09-26,Placed
+324,STU0767,HCL Technologies,Cloud Engineer,11.73,2025-07-16,Placed
+325,STU0769,TCS,System Engineer,3.57,2025-12-26,Placed
+326,STU0772,IBM,Software Developer,13.64,2025-10-11,Placed
+327,STU0773,Microsoft,Business Analyst,7.62,2025-09-26,Placed
+328,STU0775,Microsoft,Cloud Engineer,14.98,2025-11-08,Offer Received
+329,STU0776,Deloitte,Data Analyst,8.34,2025-09-14,Placed
+330,STU0779,Tech Mahindra,Data Analyst,7.85,2025-11-15,Placed
+331,STU0780,IBM,Cloud Engineer,5.43,2025-08-10,Placed
+332,STU0781,Accenture,Cloud Engineer,4.42,2025-07-16,Placed
+333,STU0785,Cognizant,Cloud Engineer,13.73,2025-11-28,Offer Received
+334,STU0793,HCL Technologies,System Engineer,8.58,2025-07-28,Placed
+335,STU0796,Capgemini,System Engineer,7.80,2025-09-25,Placed
+336,STU0797,Cognizant,Business Analyst,8.16,2025-10-23,Placed
+337,STU0799,IBM,Business Analyst,14.57,2025-09-04,Placed
+338,STU0803,Capgemini,Business Analyst,7.50,2025-10-25,Placed
+339,STU0804,Microsoft,Cloud Engineer,3.94,2025-10-27,Placed
+340,STU0806,Deloitte,Business Analyst,4.53,2025-09-24,Placed
+341,STU0807,Wipro,System Engineer,11.49,2025-07-07,Placed
+342,STU0808,Accenture,System Engineer,10.95,2025-11-04,Placed
+343,STU0809,Tech Mahindra,Business Analyst,11.04,2025-10-06,Offer Received
+344,STU0810,Wipro,Data Analyst,15.10,2025-09-06,Placed
+345,STU0812,Amazon,Data Analyst,8.51,2025-09-11,Placed
+346,STU0814,Infosys,Data Analyst,4.36,2025-10-22,Placed
+347,STU0815,IBM,Cyber Security Analyst,13.77,2025-07-07,Placed
+348,STU0817,TCS,Business Analyst,13.51,2025-09-26,Placed
+349,STU0818,HCL Technologies,Data Analyst,14.00,2025-11-12,Placed
+350,STU0819,TCS,Web Developer,14.57,2025-08-08,Offer Received
+351,STU0820,IBM,Business Analyst,14.27,2025-07-20,Offer Received
+352,STU0822,Accenture,Software Developer,8.73,2025-07-20,Placed
+353,STU0824,Microsoft,System Engineer,3.92,2025-09-29,Offer Received
+354,STU0825,Amazon,Data Scientist,12.83,2025-09-14,Placed
+355,STU0826,Deloitte,Business Analyst,8.90,2025-10-16,Placed
+356,STU0829,Microsoft,Cloud Engineer,3.88,2025-08-04,Placed
+357,STU0835,TCS,Software Developer,15.33,2025-07-08,Placed
+358,STU0841,HCL Technologies,Software Developer,15.04,2025-09-09,Offer Received
+359,STU0843,Amazon,Data Scientist,5.58,2025-12-06,Placed
+360,STU0845,IBM,Web Developer,5.23,2025-08-10,Placed
+361,STU0846,Accenture,Cloud Engineer,13.56,2025-09-20,Placed
+362,STU0847,Infosys,Web Developer,10.40,2025-12-23,Placed
+363,STU0848,Tech Mahindra,Web Developer,6.49,2025-08-27,Placed
+364,STU0849,Capgemini,Data Analyst,14.68,2025-10-15,Placed
+365,STU0851,Microsoft,Web Developer,3.74,2025-09-07,Offer Received
+366,STU0856,Microsoft,System Engineer,8.54,2025-10-21,Placed
+367,STU0858,Amazon,Cloud Engineer,15.49,2025-07-26,Placed
+368,STU0859,Microsoft,Cloud Engineer,7.22,2025-12-04,Placed
+369,STU0860,Infosys,Business Analyst,6.88,2025-12-25,Placed
+370,STU0863,Capgemini,Web Developer,5.86,2025-11-27,Placed
+371,STU0864,Tech Mahindra,Web Developer,9.63,2025-08-07,Placed
+372,STU0870,Amazon,System Engineer,10.26,2025-12-26,Placed
+373,STU0871,Microsoft,Cloud Engineer,9.53,2025-10-18,Placed
+374,STU0873,Deloitte,System Engineer,5.92,2025-11-29,Placed
+375,STU0875,Wipro,System Engineer,6.35,2025-09-09,Placed
+376,STU0878,HCL Technologies,Cloud Engineer,6.15,2025-10-20,Placed
+377,STU0879,IBM,Data Scientist,8.27,2025-11-18,Placed
+378,STU0882,HCL Technologies,System Engineer,5.21,2025-11-20,Placed
+379,STU0883,Cognizant,Cloud Engineer,10.70,2025-12-16,Placed
+380,STU0886,IBM,Software Developer,12.40,2025-10-22,Placed
+381,STU0887,Infosys,Software Developer,7.28,2025-08-14,Placed
+382,STU0888,HCL Technologies,Business Analyst,6.35,2025-07-17,Offer Received
+383,STU0889,HCL Technologies,Web Developer,13.22,2025-11-08,Placed
+384,STU0898,IBM,Web Developer,5.49,2025-07-07,Placed
+385,STU0902,IBM,Cloud Engineer,4.15,2025-08-23,Offer Received
+386,STU0904,Infosys,Cyber Security Analyst,6.59,2025-07-11,Placed
+387,STU0908,Microsoft,Data Analyst,9.90,2025-07-05,Placed
+388,STU0911,Infosys,Data Analyst,8.55,2025-08-07,Placed
+389,STU0912,HCL Technologies,Data Scientist,13.19,2025-07-18,Not Selected
+390,STU0913,Infosys,Web Developer,12.66,2025-10-22,Placed
+391,STU0915,Amazon,System Engineer,5.44,2025-07-18,Placed
+392,STU0919,Accenture,Cloud Engineer,10.06,2025-09-30,Placed
+393,STU0920,Amazon,System Engineer,15.03,2025-10-15,Offer Received
+394,STU0921,Cognizant,System Engineer,6.56,2025-10-03,Placed
+395,STU0923,HCL Technologies,Data Analyst,4.92,2025-09-18,Offer Received
+396,STU0925,Wipro,Cyber Security Analyst,11.50,2025-08-28,Placed
+397,STU0926,IBM,Cyber Security Analyst,6.00,2025-11-04,Placed
+398,STU0930,TCS,Cloud Engineer,4.64,2025-07-05,Placed
+399,STU0933,Tech Mahindra,Data Scientist,6.18,2025-07-11,Placed
+400,STU0934,Accenture,Web Developer,13.33,2025-09-02,Placed
+401,STU0935,HCL Technologies,Software Developer,11.21,2025-10-06,Placed
+402,STU0936,Deloitte,Data Analyst,6.65,2025-10-24,Placed
+403,STU0939,Capgemini,Software Developer,6.93,2025-11-25,Placed
+404,STU0943,Infosys,Data Scientist,15.47,2025-07-04,Placed
+405,STU0946,Infosys,System Engineer,9.43,2025-12-23,Offer Received
+406,STU0947,Microsoft,Web Developer,8.79,2025-09-30,Placed
+407,STU0951,Wipro,System Engineer,6.54,2025-11-27,Placed
+408,STU0954,TCS,Web Developer,15.04,2025-09-19,Placed
+409,STU0955,Tech Mahindra,Cloud Engineer,9.37,2025-07-12,Placed
+410,STU0956,IBM,Business Analyst,10.36,2025-09-13,Placed
+411,STU0961,TCS,Cloud Engineer,12.73,2025-11-26,Offer Received
+412,STU0964,Accenture,Web Developer,14.94,2025-10-22,Placed
+413,STU0965,Infosys,Data Scientist,9.49,2025-09-16,Placed
+414,STU0967,HCL Technologies,System Engineer,7.01,2025-12-04,Placed
+415,STU0968,Microsoft,Software Developer,12.19,2025-11-25,Offer Received
+416,STU0969,Microsoft,Business Analyst,14.32,2025-09-03,Placed
+417,STU0970,Capgemini,Software Developer,4.65,2025-11-21,Placed
+418,STU0972,Deloitte,Data Scientist,7.44,2025-08-21,Placed
+419,STU0975,HCL Technologies,Data Scientist,8.91,2025-07-08,Placed
+420,STU0976,Accenture,Data Analyst,10.68,2025-10-21,Offer Received
+421,STU0978,HCL Technologies,Cloud Engineer,5.82,2025-08-31,Placed
+422,STU0984,Microsoft,Data Scientist,9.03,2025-09-28,Placed
+423,STU0986,Accenture,Cloud Engineer,12.26,2025-09-08,Placed
+424,STU0990,IBM,Data Analyst,3.80,2025-10-29,Offer Received
+425,STU0991,Tech Mahindra,System Engineer,10.09,2025-12-19,Placed
+426,STU0992,HCL Technologies,Business Analyst,13.00,2025-11-15,Placed
+427,STU0997,Cognizant,Web Developer,8.99,2025-12-11,Placed
+428,STU0998,Microsoft,System Engineer,8.65,2025-08-03,Placed
+429,STU0999,Microsoft,Software Developer,14.65,2025-10-02,Placed
+430,STU1000,TCS,Data Analyst,14.74,2025-10-07,Offer Received
